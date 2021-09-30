@@ -7,6 +7,9 @@ git clone https://github.com/kyigiter/kodluyoruzilkrepo.git
 ```
 
 # Usage 
+Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
+
+Linux için:
 ```bash
 cd ilkrepo
 code .
